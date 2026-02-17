@@ -1,0 +1,420 @@
+company_name,rating,designation,type,location,benefits,jobs_count,interviews_count,salary,reviews_count
+Atlassian,3.1,Data Scientist,Software Product,Bangalore,4.0,63.0,95.0,3800.0,163.0
+ABCD,4.0,Data Scientist,Education & Training,Bangalore,12.0,0.0,96.0,4900.0,226.0
+Facebook,4.4,Data Scientist,Internet,Bangalore,22.0,0.0,55.0,1200.0,168.0
+Coursera,3.4,Data Scientist,EdTech,Gurgaon,1.0,15.0,10.0,371.0,42.0
+UBS,3.8,Data Scientist,Financial Services,Pune,117.0,1.0,369.0,31300.0,3400.0
+"Commonwealth Bank of Australia, India",2.9,Data Scientist,Financial Services,Bangalore,48.0,4.0,109.0,7400.0,854.0
+Franklin Templeton Investments,3.9,Data Scientist,Financial Services,Hyderabad,70.0,50.0,32.0,4000.0,779.0
+Fidelity Investments,4.1,Data Scientist,Financial Services,Bangalore,160.0,1.0,121.0,8000.0,1200.0
+Manhattan Associates,3.5,Data Scientist,IT Services & Consulting,Bangalore,40.0,9.0,42.0,3500.0,390.0
+ShareChat,3.6,Data Scientist,Internet,Bangalore,43.0,0.0,86.0,2500.0,608.0
+Expedia Group,3.7,Data Scientist,Internet,Gurgaon,27.0,13.0,85.0,3300.0,364.0
+Games24x7,3.7,Data Scientist,Gaming,Bangalore,13.0,10.0,25.0,1700.0,218.0
+Visa,3.3,Data Scientist,FinTech,Bangalore,39.0,49.0,156.0,6200.0,463.0
+Walmart,3.5,Data Scientist,Retail,Bangalore,319.0,142.0,434.0,22000.0,3100.0
+Meesho,3.7,Data Scientist,Internet,Bangalore,297.0,94.0,418.0,9200.0,2100.0
+Money View,4.1,Data Scientist,FinTech,Bangalore,6.0,0.0,35.0,1500.0,296.0
+Uber,4.2,Data Scientist,Internet,Hyderabad,102.0,48.0,166.0,8000.0,1000.0
+PayPal,3.8,Data Scientist,FinTech,Bangalore,120.0,0.0,234.0,9300.0,1100.0
+Salesforce,3.9,Data Scientist,Software Product,Hyderabad,104.0,153.0,243.0,12500.0,1100.0
+Go-Jek,3.7,Data Scientist,Financial Services,Bangalore,8.0,25.0,31.0,1200.0,117.0
+Novartis Healthcare,4.1,Data Scientist,Pharma,Hyderabad,45.0,6.0,22.0,3100.0,408.0
+Rakuten,3.5,Data Scientist,IT Services & Consulting,Bangalore,47.0,16.0,95.0,5200.0,495.0
+McKinsey & Company,3.8,Data Scientist,Management Consulting,Gurgaon,63.0,4.0,246.0,8300.0,705.0
+Target,4.1,Data Scientist,Retail,Bangalore,86.0,104.0,135.0,6500.0,871.0
+Flipkart,3.9,Data Scientist,Internet,Bangalore,1400.0,164.0,1600.0,54100.0,12600.0
+Cisco,4.1,Data Scientist,Hardware & Networking,Bangalore,223.0,146.0,402.0,18700.0,2100.0
+Microsoft Corporation,3.7,Data Scientist,Software Product,Bangalore,196.0,0.0,604.0,28600.0,2100.0
+Amazon Development Centre India,3.8,Data Scientist,Internet,Hyderabad,20.0,6.0,867.0,38200.0,7400.0
+Philips Innovation Campus,3.7,Data Scientist,Software Product,Bangalore,46.0,0.0,55.0,4400.0,623.0
+PhonePe,4.1,Data Scientist,FinTech,Bangalore,183.0,24.0,402.0,12700.0,3400.0
+ExxonMobil,3.8,Data Scientist,Oil & Gas,Bangalore,57.0,386.0,80.0,3800.0,521.0
+John Deere,4.0,Data Scientist,Industrial Machinery,Pune,417.0,1.0,264.0,15200.0,4000.0
+Info Edge,3.9,Data Scientist,Internet,Noida,299.0,294.0,373.0,10900.0,2300.0
+Google,4.4,Data Scientist,Software Product,Bangalore,132.0,600.0,993.0,30800.0,1900.0
+Gartner,3.8,Data Scientist,Management Consulting,Gurgaon,23.0,36.0,95.0,6300.0,684.0
+Shell,3.9,Data Scientist,Oil & Gas,Bangalore,257.0,2.0,228.0,13700.0,2700.0
+bp,3.8,Data Scientist,Oil & Gas,Pune,22.0,8.0,81.0,3700.0,602.0
+Hewlett Packard Enterprise,4.1,Data Scientist,IT Services & Consulting,Bangalore,546.0,174.0,266.0,27200.0,4500.0
+Optum Global Solutions,4.0,Data Scientist,IT Services & Consulting,Hyderabad,686.0,60.0,746.0,48400.0,7700.0
+Naukri,4.2,Data Scientist,Internet,Noida,114.0,83.0,216.0,3100.0,902.0
+PepsiCo,4.0,Data Scientist,Food Processing,Hyderabad,244.0,295.0,233.0,13200.0,3100.0
+Amazon,3.9,Data Scientist,Internet,Bangalore,4100.0,1400.0,5700.0,150000.0,30600.0
+Barclays Global Service Centre,3.9,Data Scientist,IT Services & Consulting,Pune,141.0,0.0,97.0,7800.0,956.0
+IDFC FIRST Bank,3.9,Data Scientist,Banking,Mumbai,692.0,32.0,891.0,49300.0,13900.0
+PriceLabs,4.7,Data Scientist,,Bangalore,0.0,7.0,9.0,202.0,3.0
+Intel,4.1,Data Scientist,Semiconductors,Bangalore,91.0,30.0,236.0,8800.0,1200.0
+Citicorp,3.7,Data Scientist,Financial Services,Pune,517.0,0.0,616.0,51800.0,5400.0
+Bharti Airtel,3.8,Data Scientist,Telecom,Gurgaon,1600.0,110.0,1100.0,49000.0,16800.0
+Eternal Limited,3.6,Data Scientist,Internet,Gurgaon,218.0,9.0,359.0,14500.0,2800.0
+Samsung Research,3.1,Data Scientist,IT Services & Consulting,Bangalore,140.0,1.0,148.0,9300.0,1200.0
+JPMorgan Chase & Co.,3.8,Data Scientist,Financial Services,Bangalore,844.0,657.0,848.0,84500.0,7500.0
+Global Wings Abudhabi,4.2,Data Scientist,Marketing & Advertising,Bangalore,7.0,0.0,0.0,7300.0,42.0
+Iris Software,3.8,Data Scientist,IT Services & Consulting,Noida,245.0,321.0,205.0,7600.0,1800.0
+Johnson & Johnson,4.0,Data Scientist,Healthcare,Mumbai,186.0,14.0,113.0,5800.0,1600.0
+Adobe,3.8,Data Scientist,Software Product,Bangalore,150.0,138.0,260.0,12200.0,1300.0
+Myntra,3.9,Data Scientist,Internet,Bangalore,305.0,47.0,280.0,10300.0,2200.0
+Bank of America,4.1,Data Scientist,Banking,Gurgaon,413.0,0.0,284.0,28100.0,3800.0
+Wells Fargo,3.7,Data Scientist,Financial Services,Bangalore,855.0,80.0,673.0,55100.0,8200.0
+BCG,3.7,Data Scientist,Management Consulting,Gurgaon,39.0,6.0,213.0,7400.0,484.0
+ABC Consultants,3.9,Data Scientist,Recruitment,Bangalore,23.0,1.0,239.0,25300.0,418.0
+Schlumberger,3.8,Data Scientist,Oil & Gas,Pune,112.0,18.0,153.0,5300.0,891.0
+SAP,4.1,Data Scientist,Software Product,Bangalore,284.0,198.0,312.0,17200.0,1900.0
+MasterCard,3.9,Data Scientist,FinTech,Pune,100.0,383.0,162.0,11100.0,935.0
+American Broadcasting Company,4.0,Data Scientist,,Bangalore,9.0,12.0,584.0,32900.0,1700.0
+VMock,2.4,Data Scientist,Internet,Gurgaon,3.0,17.0,8.0,403.0,39.0
+Novartis,4.1,Data Scientist,Pharma,Hyderabad,226.0,170.0,165.0,9900.0,2000.0
+Quantzig,4.6,Data Scientist,Analytics & KPO,Bangalore,59.0,1.0,5.0,329.0,282.0
+ValueLabs,3.5,Data Scientist,IT Services & Consulting,Hyderabad,266.0,68.0,210.0,16000.0,2100.0
+HiLabs,4.2,Data Scientist,Software Product,Bangalore,1.0,37.0,13.0,388.0,74.0
+Deutsche Bank,3.8,Data Scientist,Banking,Pune,399.0,325.0,415.0,35900.0,4300.0
+Apple,4.3,Data Scientist,Consumer Electronics & Appliances,Bangalore,51.0,284.0,162.0,5000.0,680.0
+Koch Business Solutions,3.2,Data Scientist,IT Services & Consulting,Bangalore,44.0,1.0,66.0,4900.0,687.0
+Eli Lilly and Company,3.5,Data Scientist,Pharma,Bangalore,62.0,53.0,80.0,4400.0,564.0
+Nokia,4.0,Data Scientist,Telecom,Bangalore,537.0,142.0,311.0,16200.0,2800.0
+Birdeye,3.3,Data Scientist,Marketing & Advertising,Gurgaon,8.0,19.0,28.0,1000.0,171.0
+R Systems International,3.4,Data Scientist,IT Services & Consulting,Noida,102.0,17.0,140.0,7400.0,1200.0
+Blend360,3.0,Data Scientist,IT Services & Consulting,Hyderabad,0.0,21.0,6.0,227.0,31.0
+Oracle,3.5,Data Scientist,Software Product,Bangalore,617.0,1100.0,941.0,62200.0,6200.0
+Maersk,4.0,Data Scientist,Logistics,Chennai,420.0,24.0,244.0,18900.0,3700.0
+Jio,4.3,Data Scientist,Telecom,Mumbai,2500.0,3.0,3600.0,62100.0,31900.0
+AB InBev India,3.3,Data Scientist,Beverage,Bangalore,144.0,70.0,110.0,7800.0,1400.0
+DBS Bank,3.7,Data Scientist,Banking,Hyderabad,192.0,188.0,190.0,12800.0,2500.0
+Blue Yonder,3.6,Data Scientist,Software Product,Bangalore,67.0,147.0,68.0,6800.0,663.0
+AstraZeneca,3.9,Data Scientist,Pharma,Chennai,151.0,1.0,66.0,7100.0,987.0
+UnitedHealth,4.0,Data Scientist,Healthcare,Hyderabad,432.0,0.0,84.0,14600.0,2800.0
+Barclays,3.7,Data Scientist,Banking,Pune,253.0,0.0,306.0,30900.0,3200.0
+NatWest Group,4.0,Data Scientist,Banking,Gurgaon,362.0,14.0,233.0,20700.0,3200.0
+Ford Motor,4.2,Data Scientist,Automobile,Chennai,397.0,1.0,173.0,15100.0,3400.0
+Lowe's,4.1,Data Scientist,Retail,Bangalore,125.0,59.0,149.0,9700.0,951.0
+Morgan Stanley,3.6,Data Scientist,Financial Services,Mumbai,151.0,14.0,329.0,25600.0,2000.0
+Grid Dynamics,2.9,Data Scientist,IT Services & Consulting,Hyderabad,0.0,263.0,24.0,838.0,82.0
+Ericsson,3.9,Data Scientist,Telecom,Noida,998.0,62.0,468.0,42500.0,8300.0
+EPAM Systems,3.7,Data Scientist,IT Services & Consulting,Hyderabad,132.0,42.0,604.0,21100.0,1900.0
+Piramal Finance,4.2,Data Scientist,NBFC,Mumbai,445.0,2.0,288.0,12600.0,6000.0
+Exela Technologies,3.3,Data Scientist,BPO,Chennai,75.0,8.0,99.0,7700.0,1700.0
+nference,3.2,Data Scientist,Software Product,Bangalore,2.0,6.0,18.0,605.0,58.0
+Ola Cabs,3.3,Data Scientist,Internet,Bangalore,227.0,13.0,153.0,9000.0,2100.0
+Tata AIG,4.0,Data Scientist,Insurance,Mumbai,245.0,91.0,187.0,11300.0,3100.0
+Circle K,2.9,Data Scientist,,Gurgaon,0.0,11.0,6.0,316.0,43.0
+HRS GmbH,3.0,Data Scientist,,Chandigarh,2.0,6.0,7.0,249.0,39.0
+Scry AI,4.2,Data Scientist,Software Product,Gurgaon,3.0,0.0,6.0,348.0,51.0
+American Express,4.1,Data Scientist,Financial Services,Gurgaon,435.0,86.0,418.0,24500.0,3700.0
+S&P Global,4.0,Data Scientist,Analytics & KPO,Hyderabad,212.0,247.0,325.0,20100.0,3100.0
+Anko,4.0,Data Scientist,IT Services & Consulting,Bangalore,12.0,14.0,11.0,813.0,88.0
+Turing,3.1,Data Scientist,Analytics & KPO,Bangalore,4.0,9.0,107.0,1400.0,271.0
+Publicis Sapient,3.4,Data Scientist,IT Services & Consulting,Bangalore,391.0,252.0,684.0,30900.0,3800.0
+Siemens,3.9,Data Scientist,Industrial Automation,Bangalore,632.0,152.0,497.0,33600.0,5600.0
+EY Global Delivery Services ( EY GDS),3.5,Data Scientist,IT Services & Consulting,Bangalore,146.0,10.0,874.0,48500.0,4500.0
+Goldman Sachs,3.4,Data Scientist,Financial Services,Bangalore,100.0,229.0,406.0,19200.0,1500.0
+Xyz Company,3.8,Data Scientist,Financial Services,Bangalore,63.0,0.0,517.0,42500.0,1200.0
+Philips,3.8,Data Scientist,Medical Equipment,Bangalore,180.0,69.0,176.0,10800.0,1900.0
+VMware Software,4.4,Data Scientist,Software Product,Bangalore,129.0,14.0,145.0,9100.0,1100.0
+Brillio,3.4,Data Scientist,IT Services & Consulting,Bangalore,76.0,16.0,141.0,10200.0,1300.0
+TransUnion,3.7,Data Scientist,Financial Services,Chennai,55.0,20.0,101.0,5800.0,644.0
+Delhivery,3.8,Data Scientist,Logistics,Gurgaon,656.0,154.0,595.0,21100.0,7600.0
+Volvo,4.0,Data Scientist,Automobile,Bangalore,89.0,3.0,76.0,5300.0,897.0
+Samsung,3.9,Data Scientist,Consumer Electronics & Appliances,Noida,520.0,25.0,613.0,26300.0,8300.0
+Applied Materials,3.7,Data Scientist,Semiconductors,Bangalore,59.0,143.0,86.0,4500.0,556.0
+Head Digital Works,4.1,Data Scientist,Gaming,Hyderabad,8.0,0.0,21.0,1100.0,141.0
+GlobalLogic,3.5,Data Scientist,IT Services & Consulting,Hyderabad,515.0,28.0,676.0,40500.0,5600.0
+Fractal Analytics,4.0,Data Scientist,Analytics & KPO,Bangalore,104.0,55.0,222.0,10200.0,986.0
+Societe Generale Global Solution Centre,3.6,Data Scientist,IT Services & Consulting,Bangalore,293.0,133.0,292.0,22700.0,3000.0
+Rolls-Royce,3.8,Data Scientist,Defence & Aerospace,Bangalore,16.0,35.0,33.0,983.0,145.0
+Standard Chartered,3.6,Data Scientist,Banking,Chennai,305.0,0.0,317.0,41900.0,5600.0
+Orion Innovation,3.5,Data Scientist,IT Services & Consulting,Chennai,13.0,2.0,44.0,3500.0,425.0
+Verizon,3.6,Data Scientist,Telecom,Hyderabad,200.0,0.0,127.0,11400.0,1800.0
+IBM,3.9,Data Scientist,IT Services & Consulting,Bangalore,2600.0,676.0,2600.0,210000.0,25200.0
+Lloyds Technology Centre,3.5,Data Scientist,IT Services & Consulting,Hyderabad,3.0,17.0,53.0,2500.0,213.0
+Globant,3.4,Data Scientist,IT Services & Consulting,Pune,100.0,52.0,200.0,9800.0,1200.0
+Vodafone Idea,3.9,Data Scientist,Telecom,Pune,2000.0,49.0,663.0,50400.0,17500.0
+Merck,4.1,Data Scientist,Pharma,Bangalore,37.0,2.0,20.0,2500.0,383.0
+Aera Software Technology,4.3,Data Scientist,IT Services & Consulting,Pune,6.0,11.0,6.0,432.0,53.0
+Eaton,3.9,Data Scientist,Electronics Manufacturing,Pune,125.0,5.0,146.0,7800.0,1300.0
+Jet2 Travel Technologies,3.3,Data Scientist,IT Services & Consulting,Pune,4.0,4.0,12.0,552.0,82.0
+Tesco,3.6,Data Scientist,Retail,Bangalore,189.0,1.0,148.0,8700.0,1500.0
+Ford Business Solutions,4.1,Data Scientist,IT Services & Consulting,Chennai,28.0,14.0,52.0,4000.0,817.0
+Coforge,3.2,Data Scientist,IT Services & Consulting,Noida,273.0,131.0,680.0,48400.0,6500.0
+CARS24,3.4,Data Scientist,Internet,Gurgaon,410.0,143.0,402.0,15400.0,4500.0
+AUTOMATION ENGINEERS A.B. (P),4.4,Data Scientist,Industrial Machinery,Noida,10.0,4.0,8.0,924.0,64.0
+Thomson Reuters,3.8,Data Scientist,Software Product,Bangalore,226.0,51.0,134.0,10500.0,1800.0
+ABB,4.1,Data Analyst,Industrial Machinery,Bangalore,346.0,203.0,283.0,17700.0,3300.0
+Goldman Sachs,3.4,Data Analyst,Financial Services,Bangalore,100.0,229.0,406.0,19200.0,1500.0
+GroundTruth,3.3,Data Analyst,Marketing & Advertising,Gurgaon,12.0,22.0,4.0,390.0,70.0
+PayPal,3.8,Data Analyst,FinTech,Bangalore,120.0,0.0,234.0,9300.0,1100.0
+Citicorp,3.7,Data Analyst,Financial Services,Pune,517.0,0.0,616.0,51800.0,5400.0
+ICICI Bank,4.0,Data Analyst,Banking,Mumbai,3700.0,18.0,2900.0,150000.0,45000.0
+Epsilon,3.7,Data Analyst,Marketing & Advertising,Bangalore,87.0,136.0,102.0,7200.0,840.0
+Cargill,3.9,Data Analyst,Food Processing,Bangalore,148.0,353.0,109.0,8300.0,2100.0
+Micron Technology,3.6,Data Analyst,Semiconductors,Hyderabad,30.0,17.0,80.0,4300.0,487.0
+Axtria,2.8,Data Analyst,Software Product,Gurgaon,75.0,138.0,133.0,7200.0,745.0
+Shell,3.9,Data Analyst,Oil & Gas,Bangalore,257.0,2.0,228.0,13700.0,2700.0
+AB InBev India,3.3,Data Analyst,Beverage,Bangalore,144.0,70.0,110.0,7800.0,1400.0
+MediBuddy,3.4,Data Analyst,Healthcare,Bangalore,16.0,15.0,37.0,2300.0,467.0
+Schlumberger,3.8,Data Analyst,Oil & Gas,Pune,112.0,18.0,153.0,5300.0,891.0
+Microsoft Corporation,3.7,Data Analyst,Software Product,Bangalore,196.0,0.0,604.0,28600.0,2100.0
+Eli Lilly and Company,3.5,Data Analyst,Pharma,Bangalore,62.0,55.0,80.0,4400.0,565.0
+Better.com,3.0,Data Analyst,Financial Services,Gurgaon,121.0,27.0,56.0,4000.0,774.0
+Google,4.4,Data Analyst,Software Product,Bangalore,132.0,594.0,993.0,30800.0,1900.0
+American Broadcasting Company,4.0,Data Analyst,,Bangalore,9.0,12.0,584.0,32900.0,1700.0
+Uber,4.2,Data Analyst,Internet,Hyderabad,102.0,48.0,166.0,8000.0,1000.0
+McAfee,3.8,Data Analyst,Software Product,Bangalore,48.0,2.0,33.0,2900.0,290.0
+MiQ Digital,3.4,Data Analyst,Marketing & Advertising,Bangalore,7.0,20.0,32.0,910.0,101.0
+HSBC Electronic Data Processing,4.1,Data Analyst,IT Services & Consulting,Bangalore,20.0,0.0,84.0,8700.0,2000.0
+Equifax,3.4,Data Analyst,Analytics & KPO,Bangalore,10.0,47.0,39.0,2200.0,300.0
+Cummins,4.3,Data Analyst,Industrial Machinery,Pune,458.0,7.0,276.0,15500.0,3900.0
+Innovaccer,3.4,Data Analyst,Software Product,Noida,23.0,113.0,91.0,3300.0,488.0
+Apple,4.3,Data Analyst,Consumer Electronics & Appliances,Bangalore,51.0,284.0,162.0,5000.0,680.0
+Karanwal Capital,4.7,Data Analyst,,Mumbai,61.0,0.0,102.0,203.0,224.0
+Olyv,4.4,Data Analyst,FinTech,Bangalore,2.0,30.0,159.0,596.0,277.0
+Becton Dickinson,4.0,Data Analyst,Medical Equipment,Bangalore,46.0,146.0,35.0,3300.0,604.0
+Axis Bank,3.6,Data Analyst,Banking,Mumbai,2100.0,207.0,1900.0,100000.0,32200.0
+AkzoNobel,4.1,Data Analyst,Chemicals,Pune,132.0,39.0,134.0,4200.0,1800.0
+PharmEasy,3.7,Data Analyst,Internet,Bangalore,153.0,3.0,116.0,6400.0,1600.0
+Rapido,3.5,Data Analyst,Internet,Bangalore,30.0,13.0,40.0,2200.0,430.0
+Zepto,3.5,Data Analyst,Internet,Bangalore,28.0,32.0,432.0,8900.0,2600.0
+Alshaya Group,3.8,Data Analyst,Retail,Bangalore,83.0,0.0,48.0,2300.0,644.0
+Flipkart,3.9,Data Analyst,Internet,Bangalore,1400.0,164.0,1600.0,54100.0,12600.0
+Nation with NaMo,2.6,Data Analyst,,New Delhi,2.0,38.0,29.0,598.0,109.0
+KreditBee,3.2,Data Analyst,Internet,Bangalore,10.0,17.0,40.0,1700.0,295.0
+DecisionTree Analytics,4.1,Data Analyst,Analytics & KPO,Gurgaon,1.0,0.0,5.0,112.0,20.0
+TresVista,2.5,Data Analyst,Analytics & KPO,Pune,13.0,22.0,126.0,2800.0,422.0
+Ola Cabs,3.3,Data Analyst,Internet,Bangalore,227.0,13.0,153.0,9000.0,2100.0
+Fractal Analytics,4.0,Data Analyst,Analytics & KPO,Bangalore,104.0,55.0,222.0,10200.0,986.0
+HighRadius,2.6,Data Analyst,Software Product,Hyderabad,82.0,26.0,208.0,8500.0,1600.0
+Think 360,4.0,Data Analyst,,Mumbai,3.0,7.0,5.0,299.0,39.0
+Merilytics,2.9,Data Analyst,Analytics & KPO,Hyderabad,8.0,0.0,51.0,1500.0,165.0
+TransOrg Analytics,2.7,Data Analyst,Financial Services,Gurgaon,2.0,10.0,18.0,315.0,34.0
+Snapdeal,3.8,Data Analyst,Internet,Gurgaon,119.0,29.0,76.0,2800.0,674.0
+Abbott,4.1,Data Analyst,Pharma,Mumbai,361.0,231.0,177.0,11800.0,3600.0
+Porter,3.5,Data Analyst,Internet,Bangalore,49.0,7.0,98.0,3600.0,833.0
+Myntra,3.9,Data Analyst,Internet,Bangalore,305.0,47.0,280.0,10300.0,2200.0
+The Smart Cube,3.5,Data Analyst,Management Consulting,Noida,30.0,0.0,28.0,1900.0,242.0
+Razorpay,3.4,Data Analyst,FinTech,Bangalore,40.0,62.0,168.0,6100.0,678.0
+Kissht Finance,3.8,Data Analyst,FinTech,Mumbai,45.0,29.0,59.0,2000.0,635.0
+EXL Service,3.6,Data Analyst,Analytics & KPO,Noida,799.0,1400.0,883.0,43700.0,8400.0
+OneCard,3.4,Data Analyst,FinTech,Pune,3.0,3.0,24.0,1100.0,222.0
+TransUnion,3.7,Data Analyst,Financial Services,Chennai,55.0,22.0,101.0,5800.0,644.0
+MCaffeine,2.8,Data Analyst,Beauty & Personal Care,Mumbai,3.0,2.0,11.0,458.0,121.0
+Oyo Rooms,3.1,Data Analyst,Internet,Gurgaon,389.0,125.0,252.0,14400.0,3900.0
+Eternal Limited,3.6,Data Analyst,Internet,Gurgaon,218.0,9.0,359.0,14500.0,2800.0
+Tredence,3.4,Data Analyst,IT Services & Consulting,Bangalore,44.0,43.0,146.0,5800.0,663.0
+Milkbasket,3.8,Data Analyst,Internet,Gurgaon,16.0,0.0,24.0,1600.0,365.0
+Indian Political Action Committee,2.8,Data Analyst,Other,Kolkata,14.0,0.0,50.0,1800.0,413.0
+DecisionTree Analytics & Services,3.7,Data Analyst,IT Services & Consulting,Gurgaon,4.0,4.0,7.0,270.0,20.0
+Lenovo,4.0,Data Analyst,Consumer Electronics & Appliances,Bangalore,58.0,3.0,51.0,3900.0,709.0
+Tiger Analytics,3.7,Data Analyst,IT Services & Consulting,Bangalore,31.0,56.0,244.0,8600.0,932.0
+Cotiviti,3.6,Data Analyst,Analytics & KPO,Hyderabad,53.0,30.0,86.0,4300.0,671.0
+Polestar Analytics,4.1,Data Analyst,IT Services & Consulting,Noida,58.0,42.0,23.0,1100.0,417.0
+Synchrony,4.2,Data Analyst,Financial Services,Hyderabad,197.0,17.0,88.0,5400.0,1200.0
+EPAM Systems,3.7,Data Analyst,IT Services & Consulting,Hyderabad,132.0,44.0,604.0,21100.0,1900.0
+Optum Global Solutions,4.0,Data Analyst,IT Services & Consulting,Hyderabad,686.0,60.0,746.0,48400.0,7700.0
+Spinny,3.7,Data Analyst,Internet,Gurgaon,101.0,40.0,198.0,7200.0,1900.0
+Intel,4.1,Data Analyst,Semiconductors,Bangalore,91.0,30.0,236.0,8800.0,1200.0
+Deutsche Bank,3.8,Data Analyst,Banking,Pune,399.0,330.0,415.0,35900.0,4300.0
+KrazyBee,3.7,Data Analyst,Internet,Bangalore,21.0,11.0,16.0,1800.0,364.0
+Maersk,4.0,Data Analyst,Logistics,Chennai,420.0,24.0,244.0,18900.0,3700.0
+Johnson Controls,3.5,Data Analyst,Industrial Automation,Pune,266.0,2.0,300.0,17300.0,3400.0
+IQVIA,3.7,Data Analyst,Clinical Research,Bangalore,524.0,10.0,538.0,30600.0,5100.0
+Caterpillar Inc,4.1,Data Analyst,Industrial Machinery,Chennai,134.0,79.0,203.0,10400.0,1600.0
+Cisco,4.1,Data Analyst,Hardware & Networking,Bangalore,223.0,146.0,402.0,18700.0,2100.0
+NeenOpal Intelligent Solutions,3.1,Data Analyst,,Bangalore,1.0,0.0,16.0,230.0,21.0
+Grey Orange,3.0,Data Analyst,Software Product,Gurgaon,49.0,16.0,44.0,2200.0,386.0
+LendingKart,3.5,Data Analyst,NBFC,Ahmedabad,22.0,5.0,37.0,2600.0,532.0
+LatentView Analytics,3.5,Data Analyst,IT Services & Consulting,Chennai,20.0,6.0,73.0,2900.0,291.0
+Mobikwik,3.5,Data Analyst,FinTech,Gurgaon,27.0,27.0,60.0,2400.0,502.0
+Mu Sigma,2.5,Data Analyst,Analytics & KPO,Bangalore,120.0,0.0,248.0,6700.0,1200.0
+Ford Business Solutions,4.1,Data Analyst,IT Services & Consulting,Chennai,28.0,21.0,52.0,4000.0,817.0
+SAP,4.1,Data Analyst,Software Product,Bangalore,284.0,201.0,312.0,17200.0,1900.0
+DBS Bank,3.7,Data Analyst,Banking,Hyderabad,192.0,190.0,190.0,12800.0,2500.0
+Meesho,3.7,Data Analyst,Internet,Bangalore,297.0,94.0,418.0,9200.0,2100.0
+Saint-Gobain,3.9,Data Analyst,Building Material,Mumbai,243.0,95.0,201.0,11300.0,2000.0
+Turing,3.1,Data Analyst,Analytics & KPO,Bangalore,4.0,9.0,107.0,1400.0,271.0
+RBL Bank,3.5,Data Analyst,Banking,Mumbai,221.0,52.0,231.0,18300.0,3900.0
+Wakefit,4.0,Data Analyst,Furniture & Furnishing,Bangalore,26.0,23.0,75.0,2800.0,842.0
+Evalueserve,3.1,Data Analyst,Analytics & KPO,Gurgaon,136.0,73.0,140.0,10300.0,1500.0
+Mapup,3.0,Data Analyst,,New Delhi,1.0,15.0,10.0,103.0,42.0
+ITC,3.9,Data Analyst,FMCG,Bangalore,638.0,76.0,674.0,24200.0,7000.0
+Coding Ninjas,3.7,Data Analyst,EdTech,Gurgaon,4.0,3.0,57.0,1300.0,334.0
+Merck Life Science,4.0,Data Analyst,Pharma,Bangalore,29.0,2.0,20.0,2700.0,370.0
+Orange Business,4.2,Data Analyst,IT Services & Consulting,Gurgaon,237.0,10.0,111.0,8900.0,1600.0
+HDFC Ergo General Insurance,4.0,Data Analyst,Insurance,Mumbai,273.0,12.0,191.0,12000.0,4000.0
+Bread Financial,3.9,Data Analyst,FinTech,Bangalore,3.0,27.0,24.0,1500.0,227.0
+Brillio,3.4,Data Analyst,IT Services & Consulting,Bangalore,76.0,16.0,141.0,10200.0,1300.0
+Koch Business Solutions,3.2,Data Analyst,IT Services & Consulting,Bangalore,44.0,1.0,66.0,4900.0,687.0
+KPMG Global Services,3.5,Data Analyst,Management Consulting,Bangalore,6.0,9.0,250.0,23400.0,2600.0
+Deloitte,3.7,Data Analyst,Management Consulting,Hyderabad,2400.0,1100.0,3200.0,250000.0,22300.0
+MagicPin,2.5,Data Analyst,Internet,Gurgaon,26.0,17.0,61.0,1900.0,462.0
+KPMG India,3.4,Data Analyst,Management Consulting,Bangalore,749.0,50.0,909.0,64500.0,7000.0
+Bosch Global Software Technologies,3.7,Data Analyst,IT Services & Consulting,Bangalore,625.0,8.0,382.0,39900.0,5500.0
+JLL,4.1,Data Analyst,Real Estate,Gurgaon,539.0,193.0,474.0,24100.0,6200.0
+Amazon Web Services,3.8,Data Analyst,IT Services & Consulting,Bangalore,80.0,0.0,184.0,6300.0,952.0
+Ipsos,3.2,Data Analyst,Analytics & KPO,Mumbai,22.0,11.0,42.0,2400.0,395.0
+Capco Technologies,3.8,Data Analyst,IT Services & Consulting,Bangalore,46.0,147.0,89.0,4700.0,646.0
+Lithium Urban Technologies,3.6,Data Analyst,Urban Transport,Bangalore,5.0,2.0,9.0,662.0,178.0
+Fiserv,2.9,Data Analyst,FinTech,Pune,311.0,4.0,193.0,17600.0,2800.0
+Chubb,3.4,Data Analyst,Insurance,Hyderabad,16.0,4.0,63.0,2900.0,274.0
+Chryselys,3.7,Data Analyst,Analytics & KPO,Hyderabad,5.0,21.0,5.0,270.0,38.0
+Institutional Shareholder Services,3.5,Data Analyst,Analytics & KPO,Mumbai,8.0,4.0,23.0,1200.0,135.0
+MathCo,3.0,Data Analyst,Analytics & KPO,Bangalore,22.0,9.0,132.0,2800.0,463.0
+Altimetrik,3.6,Data Analyst,IT Services & Consulting,Bangalore,107.0,50.0,256.0,11300.0,1400.0
+Galytix Analytics,2.1,Data Analyst,Analytics & KPO,Gurgaon,4.0,8.0,11.0,245.0,66.0
+SagasIT Analytics,4.2,Data Analyst,,Bangalore,1.0,0.0,2.0,70.0,6.0
+Clarivate,3.7,Data Analyst,Analytics & KPO,Bangalore,47.0,82.0,92.0,6300.0,796.0
+Protiviti,3.1,Data Analyst,Management Consulting,Gurgaon,25.0,18.0,68.0,4800.0,700.0
+Paytm Payments Bank,3.8,Data Analyst,Banking,Noida,116.0,2.0,138.0,5800.0,1400.0
+Reliance Industries,4.0,Data Analyst,Oil & Gas,Jamnagar,1800.0,51.0,1500.0,72800.0,19700.0
+Cult.fit,3.6,Data Analyst,Fitness & Wellness,Bangalore,77.0,147.0,77.0,4000.0,973.0
+NxtWave,3.4,Data Analyst,EdTech,Hyderabad,13.0,557.0,243.0,2800.0,1100.0
+Cartesian Consulting,3.3,Data Analyst,Management Consulting,Bangalore,5.0,0.0,14.0,473.0,61.0
+iOPEX Technologies,3.2,Data Analyst,IT Services & Consulting,Chennai,530.0,33.0,85.0,5800.0,1500.0
+Ola Electric Mobility,3.3,Data Analyst,Automobile,Bangalore,76.0,0.0,291.0,9200.0,2900.0
+AXIS MY INDIA,2.8,Data Analyst,Analytics & KPO,Mumbai,13.0,3.0,19.0,474.0,280.0
+Citco,3.1,Data Analyst,Management Consulting,Pune,49.0,45.0,166.0,8800.0,1300.0
+Zoho,4.2,Data Analyst,Software Product,Chennai,101.0,0.0,575.0,9200.0,1200.0
+Tata Technologies,3.5,Data Analyst,Engineering & Construction,Pune,308.0,105.0,306.0,22500.0,3200.0
+CARS24,3.4,Data Analyst,Internet,Gurgaon,410.0,143.0,402.0,15400.0,4500.0
+Helmerich & Payne,3.8,Data Analyst,,Bangalore,17.0,1.0,9.0,1700.0,208.0
+NCR Corporation,3.5,Data Analyst,IT Services & Consulting,Hyderabad,173.0,36.0,142.0,9200.0,1900.0
+Amdocs,3.6,Data Analyst,Software Product,Pune,614.0,9.0,560.0,37400.0,4700.0
+Salesforce,3.9,Data Engineer,Software Product,Hyderabad,104.0,153.0,243.0,12500.0,1100.0
+Google,4.4,Data Engineer,Software Product,Bangalore,132.0,594.0,993.0,30800.0,1900.0
+Atlassian,3.1,Data Engineer,Software Product,Bangalore,4.0,63.0,95.0,3800.0,163.0
+Apple,4.3,Data Engineer,Consumer Electronics & Appliances,Bangalore,51.0,284.0,162.0,5000.0,680.0
+Snowflake,3.5,Data Engineer,Software Product,Pune,1.0,0.0,12.0,418.0,35.0
+Xpo Logistics,3.4,Data Engineer,Logistics,Mumbai,24.0,0.0,14.0,1200.0,164.0
+Intuit,3.3,Data Engineer,IT Services & Consulting,Bangalore,14.0,0.0,83.0,2600.0,230.0
+Expedia Group,3.7,Data Engineer,Internet,Gurgaon,27.0,13.0,85.0,3300.0,364.0
+Microsoft Corporation,3.7,Data Engineer,Software Product,Bangalore,196.0,0.0,604.0,28600.0,2100.0
+bp,3.8,Data Engineer,Oil & Gas,Pune,22.0,9.0,81.0,3700.0,602.0
+Maersk,4.0,Data Engineer,Logistics,Chennai,420.0,24.0,244.0,18900.0,3700.0
+American Broadcasting Company,4.0,Data Engineer,,Bangalore,9.0,12.0,584.0,32900.0,1700.0
+Databricks,3.2,Data Engineer,IT Services & Consulting,Bangalore,1.0,78.0,13.0,466.0,32.0
+Parkar Digital,3.0,Data Engineer,IT Services & Consulting,Pune,3.0,21.0,3.0,379.0,62.0
+Uber,4.2,Data Engineer,Internet,Hyderabad,102.0,48.0,166.0,8000.0,1000.0
+Deutsche Bank,3.8,Data Engineer,Banking,Pune,399.0,330.0,415.0,35900.0,4300.0
+Walmart,3.5,Data Engineer,Retail,Bangalore,319.0,146.0,434.0,22000.0,3100.0
+PayPal,3.8,Data Engineer,FinTech,Bangalore,120.0,0.0,234.0,9300.0,1100.0
+JPMorgan Chase & Co.,3.8,Data Engineer,Financial Services,Bangalore,844.0,679.0,848.0,84500.0,7500.0
+Amazon,3.9,Data Engineer,Internet,Bangalore,4100.0,1500.0,5700.0,150000.0,30600.0
+Morgan Stanley,3.6,Data Engineer,Financial Services,Mumbai,151.0,14.0,329.0,25600.0,2000.0
+Citicorp,3.7,Data Engineer,Financial Services,Pune,517.0,0.0,616.0,51800.0,5400.0
+"Commonwealth Bank of Australia, India",2.9,Data Engineer,Financial Services,Bangalore,48.0,4.0,109.0,7400.0,854.0
+Advance Auto Parts,3.5,Data Engineer,Auto Components,Hyderabad,20.0,0.0,11.0,1100.0,140.0
+Ford Motor,4.2,Data Engineer,Automobile,Chennai,397.0,1.0,173.0,15100.0,3400.0
+Razorpay,3.4,Data Engineer,FinTech,Bangalore,40.0,62.0,168.0,6100.0,678.0
+McKinsey & Company,3.8,Data Engineer,Management Consulting,Gurgaon,63.0,4.0,246.0,8300.0,705.0
+MasterCard,3.9,Data Engineer,FinTech,Pune,100.0,383.0,162.0,11100.0,936.0
+Shell,3.9,Data Engineer,Oil & Gas,Bangalore,257.0,2.0,228.0,13700.0,2700.0
+BNY,3.7,Data Engineer,Financial Services,Pune,527.0,1.0,390.0,30700.0,5100.0
+Adobe,3.8,Data Engineer,Software Product,Bangalore,150.0,140.0,261.0,12200.0,1300.0
+Cardinal Health,4.0,Data Engineer,Pharma,Bangalore,14.0,12.0,33.0,1200.0,231.0
+SAP,4.1,Data Engineer,Software Product,Bangalore,284.0,201.0,312.0,17200.0,1900.0
+Cisco,4.1,Data Engineer,Hardware & Networking,Bangalore,223.0,146.0,402.0,18700.0,2100.0
+Koch Business Solutions,3.2,Data Engineer,IT Services & Consulting,Bangalore,44.0,1.0,66.0,4900.0,687.0
+Test Yantra Software Solutions,3.0,Data Engineer,IT Services & Consulting,Bangalore,129.0,9.0,143.0,25300.0,902.0
+AT&T,3.9,Data Engineer,Telecom,Bangalore,58.0,48.0,65.0,4400.0,503.0
+Sanofi,4.0,Data Engineer,Pharma,Hyderabad,163.0,38.0,93.0,5400.0,1500.0
+Adidas,3.9,Data Engineer,Fashion & Textile,Gurgaon,60.0,26.0,80.0,3700.0,722.0
+Globant,3.4,Data Engineer,IT Services & Consulting,Pune,100.0,52.0,200.0,9800.0,1200.0
+Allstate,3.7,Data Engineer,Insurance,Pune,186.0,5.0,154.0,12100.0,2100.0
+ABC Consultants,3.9,Data Engineer,Recruitment,Bangalore,23.0,1.0,239.0,25300.0,418.0
+Visa,3.3,Data Engineer,FinTech,Bangalore,39.0,49.0,156.0,6200.0,463.0
+ION Group,2.9,Data Engineer,Software Product,Noida,5.0,49.0,112.0,1600.0,218.0
+7 Eleven,3.4,Data Engineer,Retail,Bangalore,7.0,0.0,27.0,1100.0,138.0
+Kapitus,4.7,Data Engineer,FinTech,Chennai,0.0,0.0,3.0,205.0,14.0
+Target,4.1,Data Engineer,Retail,Bangalore,86.0,107.0,135.0,6500.0,871.0
+Verizon,3.6,Data Engineer,Telecom,Hyderabad,200.0,0.0,127.0,11400.0,1800.0
+Standard Chartered,3.6,Data Engineer,Banking,Chennai,305.0,0.0,317.0,41900.0,5600.0
+UBS,3.8,Data Engineer,Financial Services,Pune,117.0,1.0,369.0,31300.0,3400.0
+American Express,4.1,Data Engineer,Financial Services,Gurgaon,435.0,99.0,418.0,24500.0,3800.0
+Siemens Healthineers,4.0,Data Engineer,Healthcare,Bangalore,48.0,0.0,67.0,3900.0,483.0
+NatWest Group,4.0,Data Engineer,Banking,Gurgaon,362.0,14.0,233.0,20700.0,3200.0
+Maersk Line,4.0,Data Engineer,Logistics,Pune,64.0,0.0,33.0,2400.0,486.0
+Telstra,3.9,Data Engineer,Telecom,Bangalore,25.0,0.0,57.0,2800.0,318.0
+ValueLabs,3.5,Data Engineer,IT Services & Consulting,Hyderabad,266.0,68.0,210.0,16000.0,2100.0
+John Deere,4.0,Data Engineer,Industrial Machinery,Pune,417.0,1.0,264.0,15200.0,4000.0
+PayU Payments,3.4,Data Engineer,FinTech,Gurgaon,49.0,116.0,63.0,4100.0,559.0
+Micro Labs,3.6,Data Engineer,Pharma,Bangalore,205.0,11.0,150.0,9700.0,2700.0
+Oracle,3.5,Data Engineer,Software Product,Bangalore,617.0,1100.0,941.0,62200.0,6200.0
+PepsiCo,4.0,Data Engineer,Food Processing,Hyderabad,244.0,295.0,233.0,13200.0,3100.0
+VMware Software,4.4,Data Engineer,Software Product,Bangalore,129.0,14.0,145.0,9100.0,1100.0
+Volkswagen Group Technology Solution,3.9,Data Engineer,IT Services & Consulting,Pune,15.0,77.0,75.0,4300.0,686.0
+ANZ Banking Group,3.8,Data Engineer,Banking,Bangalore,102.0,8.0,105.0,8000.0,1200.0
+Fractal Analytics,4.0,Data Engineer,Analytics & KPO,Bangalore,104.0,55.0,222.0,10200.0,986.0
+GlaxoSmithKline Pharmaceuticals,4.0,Data Engineer,Pharma,Bangalore,112.0,30.0,124.0,5700.0,2200.0
+Gartner,3.8,Data Engineer,Management Consulting,Gurgaon,23.0,36.0,95.0,6300.0,684.0
+AB InBev India,3.3,Data Engineer,Beverage,Bangalore,144.0,70.0,110.0,7800.0,1400.0
+Cargill,3.9,Data Engineer,Food Processing,Bangalore,148.0,353.0,109.0,8300.0,2100.0
+Blue Yonder,3.6,Data Engineer,Software Product,Bangalore,67.0,151.0,68.0,6800.0,663.0
+NetApp,3.7,Data Engineer,IT Services & Consulting,Bangalore,35.0,179.0,73.0,4000.0,434.0
+EPAM Systems,3.7,Data Engineer,IT Services & Consulting,Hyderabad,132.0,44.0,604.0,21100.0,1900.0
+TIAA Global Business Services,3.7,Data Engineer,Financial Services,Pune,122.0,3.0,51.0,5000.0,650.0
+Flipkart,3.9,Data Engineer,Internet,Bangalore,1400.0,164.0,1600.0,54100.0,12600.0
+HARMAN,3.8,Data Engineer,Consumer Electronics & Appliances,Bangalore,100.0,108.0,289.0,24000.0,3300.0
+Emids Technologies Limited,3.6,Data Engineer,IT Services & Consulting,Bangalore,67.0,18.0,49.0,5100.0,610.0
+Swiss Re,3.8,Data Engineer,Insurance,Bangalore,29.0,223.0,44.0,2700.0,340.0
+Xebia,3.1,Data Engineer,IT Services & Consulting,Gurgaon,224.0,14.0,90.0,5900.0,936.0
+Sapiens,3.2,Data Engineer,Software Product,Bangalore,64.0,4.0,66.0,5200.0,575.0
+kipi.ai,3.8,Data Engineer,IT Services & Consulting,Bangalore,3.0,1.0,60.0,1200.0,283.0
+AIRBUS,3.6,Data Engineer,Aviation,Bangalore,40.0,0.0,77.0,4400.0,429.0
+Bayer,4.0,Data Engineer,Pharma,Bangalore,132.0,0.0,57.0,4100.0,897.0
+Goldman Sachs,3.4,Data Engineer,Financial Services,Bangalore,100.0,229.0,406.0,19200.0,1500.0
+BCG,3.7,Data Engineer,Management Consulting,Gurgaon,39.0,17.0,213.0,7400.0,484.0
+Xyz Company,3.8,Data Engineer,Financial Services,Bangalore,63.0,0.0,517.0,42500.0,1200.0
+BT Business,3.9,Data Engineer,Telecom,Gurgaon,260.0,0.0,90.0,9000.0,1700.0
+Bahwan CyberTek,3.4,Data Engineer,IT Services & Consulting,Chennai,24.0,254.0,53.0,4600.0,684.0
+Aon,3.8,Data Engineer,Management Consulting,Gurgaon,203.0,47.0,83.0,5900.0,1400.0
+Tiger Analytics,3.7,Data Engineer,IT Services & Consulting,Bangalore,31.0,56.0,244.0,8600.0,932.0
+Micron Technology,3.6,Data Engineer,Semiconductors,Hyderabad,30.0,17.0,80.0,4300.0,487.0
+Artefact,2.3,Data Engineer,Management Consulting,Pune,0.0,0.0,2.0,56.0,6.0
+Paytm Payments Bank,3.8,Data Engineer,Banking,Noida,116.0,2.0,138.0,5800.0,1400.0
+MSCI,3.7,Data Engineer,Financial Services,Mumbai,23.0,172.0,56.0,3400.0,359.0
+Blackrock,3.6,Data Engineer,Financial Services,Gurgaon,62.0,0.0,119.0,6500.0,573.0
+Takeda Pharmaceutical,3.4,Data Engineer,Pharma,Bangalore,5.0,0.0,7.0,649.0,56.0
+National Australia Bank,2.9,Data Engineer,Banking,Gurgaon,4.0,17.0,55.0,3200.0,454.0
+Lowe's,4.1,Data Engineer,Retail,Bangalore,125.0,62.0,149.0,9700.0,951.0
+Amazon Development Centre India,3.8,Data Engineer,Internet,Hyderabad,20.0,6.0,867.0,38200.0,7400.0
+S&P Global,4.0,Data Engineer,Analytics & KPO,Hyderabad,212.0,247.0,325.0,20100.0,3100.0
+General Mills,4.1,Data Engineer,Food Processing,Mumbai,119.0,7.0,77.0,4900.0,941.0
+Rockwell Automation,3.7,Data Engineer,Industrial Automation,Pune,73.0,47.0,85.0,5500.0,788.0
+Novo Nordisk,3.6,Data Engineer,Pharma,Bangalore,129.0,154.0,95.0,6300.0,1300.0
+Zorba,2.3,Data Engineer,,Mumbai,1.0,0.0,0.0,70.0,4.0
+Barclays,3.7,Data Engineer,Banking,Pune,253.0,0.0,306.0,30900.0,3200.0
+Amgen,2.8,Data Engineer,Biotechnology,Hyderabad,3.0,981.0,18.0,1600.0,64.0
+Autodesk,4.0,Data Engineer,Software Product,Bangalore,25.0,5.0,46.0,2800.0,281.0
+Volvo,4.0,Data Engineer,Automobile,Bangalore,89.0,3.0,76.0,5300.0,897.0
+Publicis Sapient,3.4,Data Engineer,IT Services & Consulting,Bangalore,391.0,252.0,684.0,30900.0,3800.0
+State Street Corporation,3.5,Data Engineer,Financial Services,Bangalore,261.0,9.0,281.0,31300.0,3900.0
+3M,4.0,Data Engineer,Electronics Manufacturing,Bangalore,63.0,88.0,39.0,3100.0,624.0
+Annalect,3.4,Data Engineer,Marketing & Advertising,Bangalore,18.0,0.0,82.0,4100.0,599.0
+DBS Bank,3.7,Data Engineer,Banking,Hyderabad,192.0,190.0,190.0,12800.0,2500.0
+ThoughtWorks,3.9,Data Engineer,IT Services & Consulting,Bangalore,48.0,3.0,168.0,6400.0,603.0
+Wells Fargo,3.7,Data Engineer,Financial Services,Bangalore,855.0,80.0,673.0,55100.0,8200.0
+NIKE,4.0,Data Engineer,Retail,Bangalore,22.0,3.0,45.0,2200.0,326.0
+Nestlé,3.8,Data Engineer,FMCG,Gurgaon,319.0,11.0,276.0,9600.0,2700.0
+Schlumberger,3.8,Data Engineer,Oil & Gas,Pune,112.0,18.0,153.0,5300.0,891.0
+Bot Consulting,4.3,Data Engineer,,Jaipur,0.0,16.0,0.0,66.0,2.0
+Eli Lilly and Company,3.5,Data Engineer,Pharma,Bangalore,62.0,55.0,80.0,4400.0,565.0
+ANZ Operations & Technology,3.8,Data Engineer,Financial Services,Bangalore,37.0,0.0,30.0,2500.0,293.0
+Merck,4.1,Data Engineer,Pharma,Bangalore,37.0,2.0,20.0,2500.0,383.0
+IBM Consulting,3.8,Data Engineer,,Bangalore,8.0,0.0,40.0,1900.0,145.0
+Noventiq,3.3,Data Engineer,,Mumbai,0.0,5.0,11.0,621.0,83.0
+Optum Global Solutions,4.0,Data Engineer,IT Services & Consulting,Hyderabad,686.0,58.0,746.0,48400.0,7700.0
+Bain & Company,3.8,Data Engineer,Management Consulting,Gurgaon,29.0,30.0,115.0,5400.0,333.0
+Michelin,3.8,Data Engineer,Auto Components,Pune,110.0,32.0,63.0,4800.0,875.0
+Statusneo,3.8,Data Engineer,IT Services & Consulting,Gurgaon,10.0,23.0,60.0,1400.0,330.0
+Simelabs,2.8,Data Engineer,,Kochi,0.0,0.0,0.0,98.0,8.0
+Ecolab Digital Center,3.5,Data Engineer,Chemicals,Bangalore,8.0,0.0,24.0,1500.0,177.0
+Bristol-Myers Squibb,3.6,Data Engineer,Pharma,Hyderabad,9.0,161.0,32.0,1500.0,270.0
+Rakuten,3.5,Data Engineer,IT Services & Consulting,Bangalore,47.0,16.0,95.0,5200.0,495.0
+UnitedHealth,4.0,Data Engineer,Healthcare,Hyderabad,432.0,0.0,84.0,14600.0,2800.0
+Baker Hughes,4.1,Data Engineer,Oil & Gas,Bangalore,58.0,44.0,65.0,4000.0,557.0
+Sigmoid,3.5,Data Engineer,Analytics & KPO,Bangalore,9.0,58.0,73.0,2100.0,192.0
+Anko,4.0,Data Engineer,IT Services & Consulting,Bangalore,12.0,14.0,11.0,813.0,88.0
+Stonex,3.9,Data Engineer,Internet,New Delhi,16.0,11.0,29.0,1000.0,167.0
+EXL Service,3.6,Data Engineer,Analytics & KPO,Noida,799.0,1400.0,883.0,43700.0,8400.0
+KPMG Global Services,3.5,Data Engineer,Management Consulting,Bangalore,6.0,9.0,250.0,23400.0,2600.0
+Clarivate,3.7,Data Engineer,Analytics & KPO,Bangalore,47.0,82.0,92.0,6300.0,796.0
+NTT Data,3.8,Data Engineer,IT Services & Consulting,Bangalore,156.0,126.0,728.0,35600.0,5000.0
